@@ -25,7 +25,7 @@ Check out our [Miro Board containing all the diagrams below][miro-board-link]. Y
 
 ### Requirements
 
-This section contains the requirements, distilled from the [provided document](https://docs.google.com/document/d/1SML3n4JbpZV2PSLRpjaCvBvyUMVsFwlqAQF3VKd_oPU/edit#) and  
+This section contains the requirements, distilled from the [provided document](https://github.com/TheKataLog/Myagis-Forests/blob/main/requirements/Farmacy-Food-Kata.pdf) and  
 the interview with the PO, Kwaku Osei, but also with some assumptions we made. These requirements were the main drivers for the design decisions in this proposal. 
 
 - [Functional requirements](requirements/functional-rqmts.md)
